@@ -1,3 +1,1 @@
-## Trabajar sin conexión
-
 Para obtener información sobre cómo configurar Scratch para su uso sin conexión, visita [nuestra guía de "Introducción a Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
