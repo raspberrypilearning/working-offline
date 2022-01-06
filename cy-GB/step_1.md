@@ -1,0 +1,1 @@
+I gael gwybodaeth am sut i sefydlu Scratch i'w ddefnyddio all-lein, ymwelwch â [ein canllaw 'Dechrau arni gyda Scratch'](https://projects.raspberrypi.org/cy-GB/projects/getting-started-scratch/1){:target="_blank"}.
