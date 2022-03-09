@@ -1,1 +1,1 @@
-Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκεφτείτε τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1): target = "_ blank"}.
+Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκέψου τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1): target = "_ blank"}.
