@@ -1,1 +1,1 @@
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+ऑफलाईन वापरासाठी Scratch कसे सेट करावे याबद्दल माहितीसाठी, [आमच्या 'Getting started with Scratch' मार्गदर्शक](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_ blank"} ला भेट द्या.
