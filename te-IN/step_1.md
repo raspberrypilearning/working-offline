@@ -1,0 +1,1 @@
+ఆఫ్‌లైన్ ఉపయోగం కోసం Scratch ని ఎలా సెటప్ చేయాలనే దాని గురించి సమాచారం కోసం, ['Getting started with Scratch'](https://projects.raspberrypi.org/te-IN/projects/getting-started-scratch/1){:target="blank"} ని సందర్శించండి.
