@@ -1,0 +1,1 @@
+Scratch को ऑफ़लाइन उपयोग के लिए कैसे सेट करें, इस बारे में जानकारी के लिए, ['Getting started with Scratch'](https://projects.raspberrypi.org/hi-IN/projects/getting-started-scratch/1){:target="_blank"} पर जाएं।

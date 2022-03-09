@@ -1,0 +1,1 @@
+ऑफलाईन वापरासाठी Scratch कसे सेट करावे याबद्दल माहितीसाठी, [आमच्या 'Getting started with Scratch' मार्गदर्शक](https://projects.raspberrypi.org/mr-IN/projects/getting-started-scratch/1){:target="_ blank"} ला भेट द्या.
