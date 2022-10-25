@@ -1,1 +1,1 @@
-Інформацію про те, як налаштувати Scratch для роботи в режимі офлайн, можна знайти у [нашому керівництві Початок роботи в Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+Інформацію про те, як налаштувати Scratch для роботи в режимі офлайн, можна знайти у [нашому керівництві 'Початок роботи в Scratch'](https://projects.raspberrypi.org/uk-UA/projects/getting-started-scratch/1){:target="_blank"}.
