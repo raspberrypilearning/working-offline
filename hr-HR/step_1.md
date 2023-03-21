@@ -1,0 +1,1 @@
+Za informacije o tome kako postaviti Scratch za izvanmrežnu upotrebu, posjeti [naš vodič 'Početak rada sa Scratchom'](https://projects.raspberrypi.org/hr-HR/projects/getting-started-scratch/1){:target="_blank"}.
