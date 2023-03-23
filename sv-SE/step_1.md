@@ -1,0 +1,1 @@
+För information om hur du ställer in Scratch för offlineanvändning, besök vår ["Komma igång med Scratch"-guide](https://projects.raspberrypi.org/sv-SE/projects/getting-started-scratch/1){:target="_blank"}.
