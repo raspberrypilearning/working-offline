@@ -1,0 +1,1 @@
+Ngolwazi malunga nendlela yokuseta iScratch ukuze isetyenziswe ngaphandle kweintanethi, ndwendwela [yethu 'Ukuqalisa ngeScratch' isikhokelo](https://projects.raspberrypi.org/xh-ZA/projects/getting-started-scratch/1){:target="_blank"}.
