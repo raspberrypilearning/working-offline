@@ -1,0 +1,1 @@
+Para obtener información sobre cómo configurar Scratch para uso sin conexión, visita [nuestra guía 'Comenzando con Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
