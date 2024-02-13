@@ -1,0 +1,1 @@
+Besuche [unsere Anleitung 'Erste Schritte mit Scratch'](https://projects.raspberrypi.org/de-DE/projects/getting-started-scratch/1){:target="_blank"} für mehr Information zum Einrichten von Scratch für die offline Benutzung.
