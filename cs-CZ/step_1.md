@@ -1,0 +1,1 @@
+Informace o tom, jak nastavit Scratch pro použití offline, naleznete v [naší příručce „Začínáme se Scratchem“](https://projects.raspberrypi.org/cs-CZ/projects/getting-started-scratch/1){:target="_blank"}.
