@@ -1,0 +1,1 @@
+Per obtenir informació sobre com configurar Scratch per utilitzar-lo fora de línia, visiteu [la nostra guia "Com començar amb Scratch"](https://projects.raspberrypi.org/ca-ES/projects/getting-started-scratch/1){:target="_blank"}.
